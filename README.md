@@ -1,6 +1,7 @@
 ---Special pet heals---
 
 Copy the scripts into your AO scripts folder C:\Users\"Username"\AppData\Local\Funcom\Anarchy Online\"123456789"\Anarchy Online\scripts
+
 In game type "/macro HF1 /pethealfollow1"  put a macro on your hotbar.
 Press F10 and bind the hotbarslot, to a key of your liking.
 Rename your heal pet to Medinos by targeting heal pet and typing "/pet rename Medinos"
