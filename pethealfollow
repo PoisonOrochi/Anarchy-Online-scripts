@@ -1,23 +1,49 @@
-/pet "Mortificant the Eternal" heal
-/pet "Belamorte" heal
-/pet "Curatem The Grand" heal
-/pet "Altumus" heal
-/pet "The Vivificator" heal
-/pet "Restite" heal
-/pet "Sanoo" heal
-/pet "Valentyia" heal
-/pet "Salvinous" heal
 /pet "Medinos" heal
-
 /delay 200
-
-/pet "Mortificant the Eternal" follow
-/pet "Belamorte" follow
-/pet "Curatem The Grand" follow
-/pet "Altumus" wait
-/pet "The Vivificator" follow
-/pet "Restite" follow
-/pet "Sanoo" follow
-/pet "Valentyia" follow
-/pet "Salvinous" follow
 /pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
+
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+/delay 4600
