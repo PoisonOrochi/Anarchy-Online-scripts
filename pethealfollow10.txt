@@ -47,3 +47,5 @@
 /delay 200
 /pet "Medinos" follow
 /delay 4600
+
+/pet "Medinos" heal
