@@ -1,0 +1,6 @@
+/pet "Medinos" heal
+/delay 200
+/pet "Medinos" follow
+
+
+
