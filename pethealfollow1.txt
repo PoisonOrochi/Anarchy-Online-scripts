@@ -1,6 +1,7 @@
 /pet "Medinos" heal
 /delay 200
 /pet "Medinos" follow
-
+/delay 200
+/pet "Medinos" heal
 
 
