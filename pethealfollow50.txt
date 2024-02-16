@@ -1,0 +1,202 @@
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/pet Belamorte heal
+/delay 200
+/pet Belamorte follow
+/delay 4600
+/text %m HF50 end
+/pet Belamorte heal
