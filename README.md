@@ -8,13 +8,13 @@ Rename your heal pet to Belamorte by targeting heal pet and typing "/pet rename 
 The macro will fire a single pet heal from, then go on follow, this lets you heal from a distance, so the healpet will stay out of aoe nuke range, notum overload+CrunchCom Nano Compressor Pro will increase the range.  
 The macro will also reduce the cooldown for the pet heal.  
 
-/macro HF10 /pethealfollow5.txt  
+/macro HF5 /pethealfollow5.txt  
 /macro HF10 /pethealfollow10.txt  
-/macro HF10 /pethealfollow20.txt  
-/macro HF10 /pethealfollow30.txt  
-/macro HF10 /pethealfollow40.txt  
-/macro HF10 /pethealfollow50.txt  
-/macro HF10 /pethealfollow58.txt  
+/macro HF20 /pethealfollow20.txt  
+/macro HF30 /pethealfollow30.txt  
+/macro HF40 /pethealfollow40.txt  
+/macro HF50 /pethealfollow50.txt  
+/macro HF58 /pethealfollow58.txt  
 is simply a number of times in a row, automatic version, with the tightest possible (reliable) timings , for maximum heal speed.  
 You still have to keep the person targeted though.  
 When these automatic scripts reach the end of execution they will post a message in chat "Charactername HFnn end"  
