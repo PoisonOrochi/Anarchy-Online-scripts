@@ -1,7 +1,5 @@
-/pet "Medinos" heal
+/pet Belamorte heal
 /delay 200
-/pet "Medinos" follow
+/pet Belamorte follow
 /delay 200
-/pet "Medinos" heal
-
-
+/pet Belamorte heal
