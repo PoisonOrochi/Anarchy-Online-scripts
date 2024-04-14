@@ -16,7 +16,7 @@ The macro will also reduce the cooldown for the pet heal.
 /macro HF50 /pethealfollow50.txt  
 /macro HF58 /pethealfollow58.txt  
 is simply a number of times in a row, automatic version, with the tightest possible (reliable) timings , for maximum heal speed.  
-You still have to keep the person targeted though.  
+You still have to keep the person targeted though. (pethealfollow1 does not require constant target, and can thus be used as replacement for your default pet heal macro).   
 When these automatic scripts reach the end of execution they will post a message in chat "Charactername HFnn end"  
 They will be posted in your default chat window, the one where you most recently tried to type something in.  
 
